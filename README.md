@@ -1,10 +1,6 @@
 # Awesome-Applicant-Tracking-System-ATS
 
-# Awesome-Applicant-Tracking-System-ATS
-
 **Top Applicant Tracking System ATS (Opensource) 🌟 Star if you like it! 🌟**
-
-
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
@@ -12,210 +8,86 @@
 
 **Last updated: October 2026**
 
-
-
 This repository tracks notable **SaaS platforms** and **open-source projects** for **Applicant Tracking Systems (ATS)**. These tools enable recruiting teams to post jobs, parse resumes, manage candidate pipelines, schedule interviews, and collaborate on hiring decisions—from fully managed enterprise suites with AI-powered matching to self-hosted applications that give organizations complete ownership of candidate data and recruitment workflows.
-
-
-
-**Examples** include Workday Recruiting, Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Jobvite, JazzHR, Breezy HR, and Teamtailor (the category leaders in commercial space).
-
-
 
 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, recruitment CRM, and open hiring infrastructure—ideal for developers, recruiting agencies, and organizations seeking transparent, vendor-independent ATS solutions.
 
-
-
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Workday Recruiting](https://www.workday.com/)**
-
-  **Enterprise recruiting and talent acquisition** integrated with Workday HCM. **Pricing**: Quote-only; enterprise licensing typically bundled with core HCM modules. **Free tier**: None. **Best for**: large enterprises already on Workday seeking unified recruiting, onboarding, and employee data management.
-
-
-
-- **[Greenhouse](https://www.greenhouse.com/)**
-
-  **Structured hiring platform** known for scorecards, interview kits, and DE&I reporting. **Pricing**: Quote-only; typically per-employee or per-hire models depending on company size. **Free tier**: None. **Best for**: mid-market and enterprise companies prioritizing structured, bias-reduced hiring workflows.
-
-
-
-- **[Lever](https://www.lever.co/)**
-
-  **Talent acquisition suite** combining ATS and CRM capabilities for sourcing and nurturing candidates. **Pricing**: Quote-only; tiered by company size and feature requirements. **Free tier**: None. **Best for**: companies wanting unified recruiting and talent relationship management in one platform.
-
-
-
-- **[Ashby](https://www.ashbyhq.com/)**
-
-  **All-in-one recruiting platform** with built-in analytics, scheduling, and sourcing. Known for strong reporting and modern UX. **Pricing**: Quote-only; transparent pricing available upon request. **Free tier**: None. **Best for**: scaling companies wanting deep analytics and a modern, integrated recruiting stack.
-
-
-
-- **[Workable](https://www.workable.com/)**
-
-  **SMB-focused recruiting software** with job posting, sourcing, and collaborative hiring tools. **Pricing**: Tiered plans available; historically offered per-job or per-employee pricing with annual contracts. **Free tier**: Trial available. **Best for**: small to midsize businesses wanting an accessible, full-featured ATS without enterprise complexity.
-
-
-
-- **[SmartRecruiters](https://www.smartrecruiters.com/)**
-
-  **Enterprise-grade talent acquisition platform** with a marketplace of integrated recruitment tools. **Pricing**: Quote-only; enterprise-focused with custom contracts. **Free tier**: None. **Best for**: large organizations seeking a scalable, extensible ATS with a partner ecosystem.
-
-
-
-- **[Jobvite](https://www.jobvite.com/)**
-
-  **Recruitment marketing and ATS platform** with sourcing, engagement, and analytics. **Pricing**: Quote-only. **Free tier**: None. **Best for**: companies wanting to combine employer branding and recruitment marketing with core ATS functionality.
-
-
-
-- **[JazzHR](https://www.jazzhr.com/)**
-
-  **SMB-focused ATS** with job posting, candidate tracking, and interview scheduling at accessible price points. **Pricing**: Quote-only; historically offered tiered plans for small teams. **Free tier**: Trial available. **Best for**: small businesses and startups hiring their first teams without large software budgets.
-
-
-
-- **[Breezy HR](https://breezy.hr/)**
-
-  **Visual recruitment platform** with drag-and-drop pipelines and branded career pages. **Pricing**: Tiered plans; historically offered a free tier for very small teams and paid plans for growing companies. **Free tier**: Historically available for limited users/jobs. **Best for**: small to midsize teams wanting an intuitive, visual hiring workflow.
-
-
-
-- **[Teamtailor](https://www.teamtailor.com/)**
-
-  **Employer branding and ATS platform** with career site builder and collaborative hiring features. **Pricing**: Quote-only; typically per-employee or tiered models. **Free tier**: None. **Best for**: companies prioritizing candidate experience and employer branding alongside core ATS needs.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[OpenCATS](https://github.com/opencats/OpenCATS)**
-
-  **Free and open-source applicant tracking system and recruitment CRM** (MPL 2.0) — **the most established open-source ATS**, active since the mid-2000s with ongoing releases in 2026 . **Features**: Job postings, candidate pipeline, resume parsing, career portal, and client/contact management for staffing agencies. **Tech stack**: PHP 8.4+, MariaDB. **Deploy**: Self-hosted (web server required); Docker setups exist via community. **Note**: The project published 12 security advisories in 2026, with fixes in v0.10.0–v0.11.1—operators must stay current with releases . **Best for**: recruiting agencies and hiring teams wanting a dedicated, self-hosted ATS with no per-user fees .
-
-
-
-- **[Odoo Recruitment](https://github.com/odoo/odoo)**
-
-  **Open-source ERP with a dedicated Recruitment module** (LGPL-3 for Community edition) — **the most feature-rich open-source recruiting option** for organizations already running Odoo. **Features**: Job board integration, Kanban pipeline with drag-and-drop stages, automated email responses, interview scheduling with Google/Outlook calendar sync, candidate self-scheduling, and one-click candidate-to-employee conversion . **Tech stack**: Python (Odoo framework), PostgreSQL. **Deploy**: Self-hosted Community edition or Odoo.sh (paid). **Trade-off**: Requires standing up a full Odoo instance—overkill if you only need an ATS . **Best for**: organizations already using Odoo for ERP/HR wanting recruiting integrated with the broader business suite.
-
-
-
-- **[Horilla](https://github.com/horilla/horilla-hr)**
-
-  **Free and open-source HR software with a recruitment module** (LGPL-2.1) — **the fastest-moving modern open-source HR suite** with active releases (v2.1.8 in September 2026) . **Features**: Job postings, applicant tracking with drag-and-drop pipeline stages, interview scheduling, and onboarding—all within a Django/PostgreSQL HRMS that also covers attendance, leave, and payroll . **Tech stack**: Python (Django), PostgreSQL, Docker-ready. **Deploy**: Docker Compose (recommended) or manual Django deployment . **Best for**: small to midsize teams wanting recruiting inside a free, self-hosted HR system rather than a standalone ATS .
-
-
-
-- **[Frappe HR](https://github.com/frappe/hrms)**
-
-  **Open-source HR and payroll suite** (GPL-3.0) with job opening, applicant, and interview management. **Features**: Job postings, applicant records, interview scheduling, and offer management integrated with employee onboarding and payroll. **Tech stack**: Python (Frappe Framework), Vue.js (Frappe UI). **Deploy**: Self-hosted or Frappe Cloud. **Trade-off**: Like Odoo, the recruitment module is one part of a larger HRMS—more than needed for pure ATS use . **Best for**: organizations wanting recruiting tightly integrated with HR and payroll in a single open-source platform.
-
-
-
-- **[OrangeHRM (Community)](https://github.com/orangehrm/orangehrm)**
-
-  **Open-source HR management system** (GPL-3.0) with a built-in recruitment module. **Features**: Job postings, applicant tracking, interview scheduling, and candidate history alongside leave, time, and employee records. **Tech stack**: PHP, MySQL. **Deploy**: Self-hosted or Docker container . **Trade-off**: The recruiting module handles internal HR workflows better than external agency needs—less depth than dedicated ATS tools . **Best for**: small HR teams wanting basic recruiting alongside core HR administration in one free system.
-
-
-
-- **[Niyam](https://github.com/imrohit4077/niyam)**
-
-  **AI-powered applicant tracking system** — **a modern open-source alternative** positioned against Greenhouse, Lever, and SmartRecruiters . **Features**: AI-assisted candidate evaluation, job and application management, e-signature support, audit logging, and API rate limiting for production deployments. **Tech stack**: Python (FastAPI), React 19 + TypeScript, PostgreSQL, Redis, Celery. **Deploy**: Self-hosted (backend + frontend setup required). **Note**: Newer project with limited community validation compared to OpenCATS—evaluate maturity carefully. **Best for**: teams wanting a modern, API-first ATS with AI capabilities and full control over the stack.
-
-
-
-- **[SpotAxis](https://github.com/spotaxis/spotaxis)**
-
-  **Open-source ATS with multi-company hosting mode** (MIT) — **designed for agencies or platforms serving multiple hiring organizations**. **Features**: Career sites, resume parsing, custom pipeline per job, and a mode for hosting ATS as a subscription service for other companies . **Tech stack**: Python (Django). **Deploy**: Self-hosted. **Note**: Last commit October 2025—activity has stalled; verify project status before adopting . **Best for**: developers or agencies wanting an MIT-licensed ATS codebase to build upon or host for clients.
-
-
-
-- **[Harly](https://github.com/harly-ats/harly)**
-
-  **New open-source ATS for startups, agencies, and technical teams** (MIT) — **a public beta project** with active development (v0.2.1 released September 2026) . **Features**: Core applicant tracking and pipeline management with a modern TypeScript stack. **Tech stack**: TypeScript, PostgreSQL. **Deploy**: Self-hosted. **Note**: Early-stage project—expect evolving features and limited documentation. **Best for**: developers wanting a lightweight, MIT-licensed ATS foundation to customize.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **ERPNext HR** — Open-source ERP with HR module including job postings, applicant tracking, and interview management. **Best for**: organizations already running ERPNext wanting recruiting inside the same system .
-
-- **Sentrifugo** — Open-source HRMS (GPL-3.0) with a recruitment module for job postings and candidate tracking. **Best for**: teams wanting a PHP-based HRMS with basic ATS functionality.
-
-- **CandidATS** — OpenCATS off-shoot with similar functionality. **Note**: Community activity and release cadence should be verified before adoption .
-
-
-
-**Frameworks for building custom systems**: Combine **OpenCATS** for a proven, standalone ATS with **Horilla** or **Frappe HR** for HRMS-integrated recruiting, **Odoo Recruitment** for ERP-connected hiring, and **Niyam** for a modern AI-ready API-first stack—creating a comprehensive applicant tracking solution matched to each organization's constraints.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Applicant tracking systems handling candidate personal data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls and retention policies.
-
-- **The "standalone ATS vs. HR/ERP suite module" distinction matters.** **OpenCATS** and **Niyam** are purpose-built ATS tools—focused, but narrower in scope. **Odoo Recruitment, Horilla, Frappe HR, and OrangeHRM** embed recruiting within larger HR/ERP systems—more integrated, but heavier to deploy and maintain if you only need hiring workflows . **Choose based on whether recruiting is your only need or one part of a broader HR strategy.**
-
-- **OpenCATS is the open-source leader by longevity, but requires security vigilance.** Active since the mid-2000s with ~757 GitHub stars, it published 12 security advisories in 2026 alone, including two critical issues . **Self-hosting means you own the patching responsibility.** If you lack the capacity to monitor and apply releases promptly, consider a managed SaaS or a more actively maintained alternative.
-
-- **Horilla and Frappe HR are the strongest choices for HR-integrated recruiting.** Both ship frequent releases (Horilla v2.1.8 in September 2026; Frappe HR v16.20.0 in September 2026) and cover hiring alongside payroll, leave, and employee records . **The trade-off**: you deploy and maintain a full HRMS even if you only need an ATS.
-
-- **Modern open-source alternatives (Niyam, Harly) are promising but immature.** Niyam offers a FastAPI/React stack with AI features; Harly is a TypeScript-based public beta . **Neither has OpenCATS's track record or community size.** Evaluate documentation, issue responsiveness, and release cadence before committing production hiring workflows.
-
-- Self-hosted open-source solutions require proper server setup, backup configuration, and ongoing maintenance. **Candidate data is sensitive**—ensure your hosting meets your organization's security and privacy requirements before deploying.
-
-
 
 ---
 
+## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
+
+---
+
+## Sector Overview & Market Dynamics
+
+The global Applicant Tracking System (ATS) market is estimated between **$2.6 billion and $3.3 billion** (projected to reach $4.8B–$8.5B by 2035 with a ~7–11% CAGR). The market exhibits a distinct **bimodal structure**: it is **concentrated and oligopolistic at the enterprise tier** where dominant HCM/suite vendors (e.g., Workday, SAP, Greenhouse) command high switching costs, while remaining **moderately-to-highly fragmented in the SMB and mid-market segment** with hundreds of specialized, niche, and emerging AI-native recruiting platforms competing for market share.
+
+---
+
+## SaaS/Hosted Platforms
+
+| Platform | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Key Features & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Workday Recruiting](https://www.workday.com/)** | ~$10.1B Revenue / ~$50B Market Cap | ~$100–$180 PEPM (~$1,200+/employee/yr bundled in HCM, typical contracts $50,000–$100,000+/yr) | 0 days (No free tier or public trial; sales demonstration only) | Enterprise HCM integration, unified employee lifecycle, global talent compliance. Best for large enterprises already on Workday. |
+| **[SmartRecruiters](https://www.smartrecruiters.com/)** | ~$1.5B Valuation (Acquired by SAP) / ~$100M+ ARR | $14,995/year (~$1,250/month) for SmartStart/Essential plan | 0 days (No permanent free tier; live guided sales trial upon request) | Enterprise recruitment platform, marketplace of 500+ integrated tools, AI screening. Best for mid-market to enterprise companies. |
+| **[Greenhouse](https://www.greenhouse.com/)** | ~$820M+ Valuation / ~$220M ARR | $8,500/year (~$708/month) for Essential tier (<50 employees) | 0 days (No free tier or trial; sales consultation & custom sandbox demo only) | Structured hiring, interview kits, scorecard rubrics, deep DE&I reporting. Best for mid-market and scaling businesses. |
+| **[Employ Inc. (Lever)](https://www.lever.co/)** | ~$250M–$500M Group Revenue | $6–$8 per employee/month (~$4,000–$7,000/year minimum contract) | 0 days (No free tier or self-serve trial; custom POC demo via sales) | Combines ATS with Candidate Relationship Management (CRM) and multi-channel drip sourcing. Best for high-growth tech companies. |
+| **[Employ Inc. (Jobvite)](https://www.jobvite.com/)** | ~$250M–$500M Group Revenue | $4,800/year (~$400/month) for small business tier | 0 days (No free tier or public self-serve trial; private sandbox demo on evaluation) | Recruitment marketing, candidate relationship management, social job distribution, employee referral automation. Best for medium-to-large staffing & corporate teams. |
+| **[Employ Inc. (JazzHR)](https://www.jazzhr.com/)** | ~$250M–$500M Group Revenue | $75/month (Hero plan, billed annually at $900/year; or $99/mo billed monthly) | 14-day free trial (Limited to test job postings, candidate evaluations, and core email features without automated resume sync) | Flat-rate pricing, syndication to free job boards, basic applicant tracking. Best for small businesses and startups making initial hires. |
+| **[Workable](https://www.workable.com/)** | ~$50M–$70M ARR | $189/month (Starter tier for small teams, covers up to 2 active jobs) | 15-day free trial (Full feature access to recruiting tools, 2 active trial jobs, no credit card required) | AI candidate matching, auto-posting to 200+ job boards, mobile recruitment app. Best for SMBs wanting ready-to-run hiring software. |
+| **[Teamtailor](https://www.teamtailor.com/)** | ~$41M ARR | $199/month (~$2,400/year entry tier, scaled by total employee count) | 14-day free trial (Full access to careers site builder, test candidate pipelines, unlimited teammate seats during trial) | Employer branding, drag-and-drop career site builder, unlimited hiring manager seats. Best for teams focused on employer branding and candidate experience. |
+| **[Ashby](https://www.ashbyhq.com/)** | ~$39M ARR / ~$50M Series D Raised | $300/month ($3,600/year on Foundations plan for teams <100 employees) | 0 days (No self-serve free tier or public trial; interactive sandbox demo provided on qualified sales calls) | All-in-one recruiting, advanced pipeline analytics, automated interview scheduling, built-in CRM. Best for fast-growing companies and data-driven talent teams. |
+| **[Breezy HR](https://breezy.hr/)** | ~$15M–$25M ARR | $157/month (Startup tier billed annually; or $189/mo billed monthly) | Free Forever plan (Bootstrap tier: 1 active job posting, 1 user seat, unlimited candidate resumes) + 14-day trial of paid tiers | Visual Kanban candidate pipeline, automated stage actions, video interviewing. Best for startups and small teams looking for a free starting tier. |
+
+---
+
+## Open-Source GitHub Projects
+
+Curated open-source applicant tracking systems, recruitment modules, and hiring pipelines sorted by GitHub community stars:
+
+| Repository | Stars | License | Tech Stack | Description & Highlights |
+| :--- | :---: | :--- | :--- | :--- |
+| **[odoo/odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | **Odoo Recruitment Module** — Full-featured ERP recruitment suite with Kanban pipelines, drag-and-drop candidate stages, email integration, calendar interview scheduling, and instant candidate-to-employee onboarding. |
+| **[frappe/erpnext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python, JavaScript, MariaDB | **ERPNext Recruitment & HR** — Comprehensive open-source enterprise suite featuring job applicant management, staffing planning, interview evaluation records, and seamless integration with core HR operations. |
+| **[frappe/hrms](https://github.com/frappe/hrms)** | [![Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | GPL-3.0 | Python (Frappe), Vue.js, MariaDB | **Frappe HR** — Dedicated modern HRMS and recruitment tool tracking job openings, candidate resumes, interview feedback, and offer letters with deep payroll and lifecycle workflows. |
+| **[horilla/horilla-hr](https://github.com/horilla/horilla-hr)** | [![Stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers) | LGPL-2.1 | Python (Django), PostgreSQL | **Horilla HR** — Rapidly growing open-source HRMS featuring a visual applicant pipeline, job requisition management, interview scheduling, and employee onboarding. |
+| **[orangehrm/orangehrm](https://github.com/orangehrm/orangehrm)** | [![Stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers) | GPL-3.0 | PHP, MySQL | **OrangeHRM Community** — Established HR software with recruitment module covering candidate resume repositories, vacancy publishing, interview tracking, and hiring history. |
+| **[opencats/OpenCATS](https://github.com/opencats/OpenCATS)** | [![Stars](https://img.shields.io/github/stars/opencats/OpenCATS?style=social&color=white)](https://github.com/opencats/OpenCATS/stargazers) | MPL-2.0 | PHP, MariaDB | **OpenCATS** — The most established standalone open-source ATS and recruitment CRM, built specifically for staffing agencies and in-house hiring teams with resume parsing, job boards, and client management. |
+| **[nueno-co/nueno](https://github.com/nueno-co/nueno)** | [![Stars](https://img.shields.io/github/stars/nueno-co/nueno?style=social&color=white)](https://github.com/nueno-co/nueno/stargazers) | AGPL-3.0 | TypeScript, React, Node.js | **Nueno** — Open-source applicant tracking system offering a clean modern web UI for tracking applications, pipeline stages, and recruitment communications. |
+| **[cross-solution/YAWIK](https://github.com/cross-solution/YAWIK)** | [![Stars](https://img.shields.io/github/stars/cross-solution/YAWIK?style=social&color=white)](https://github.com/cross-solution/YAWIK/stargazers) | MIT | PHP, Laminas / Zend, MongoDB | **YAWIK** — Modular open-source ATS and job board application for managing candidate applications, publishing job vacancies, and organizing applicant evaluation teams. |
+| **[chamals3n4/OpenATS](https://github.com/chamals3n4/OpenATS)** | [![Stars](https://img.shields.io/github/stars/chamals3n4/OpenATS?style=social&color=white)](https://github.com/chamals3n4/OpenATS/stargazers) | MIT | PHP (Laravel), MySQL | **OpenATS** — Lightweight open-source recruitment and hiring management platform for candidate sourcing, application reviewing, and interview coordination. |
+| **[Assystant/SpotAxis](https://github.com/Assystant/SpotAxis)** | [![Stars](https://img.shields.io/github/stars/Assystant/SpotAxis?style=social&color=white)](https://github.com/Assystant/SpotAxis/stargazers) | MIT | Python (Django), PostgreSQL | **SpotAxis** — Open-source ATS with multi-organization support, customizable recruitment funnels per role, resume parsing, and career page generation. |
+| **[Vytral/harly](https://github.com/Vytral/harly)** | [![Stars](https://img.shields.io/github/stars/Vytral/harly?style=social&color=white)](https://github.com/Vytral/harly/stargazers) | MIT | TypeScript, React, PostgreSQL | **Harly** — Self-hosted modern ATS alternative to Greenhouse and Ashby built for technical teams, startups, and agencies. |
+| **[imrohit4077/niyam](https://github.com/imrohit4077/niyam)** | [![Stars](https://img.shields.io/github/stars/imrohit4077/niyam?style=social&color=white)](https://github.com/imrohit4077/niyam/stargazers) | MIT | Python (FastAPI), React 19, PostgreSQL | **Niyam** — AI-native applicant tracking system featuring candidate evaluation assistance, job management, audit logs, and API rate limiting. |
+
+---
+
+## How to Contribute
+
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing tabular and badge format).
+3. Include: name, link, exact pricing / limits (for SaaS), license and repository star badge (for open-source).
+4. Submit PR with a short explanation.
+
+Star the repo if you find it useful!
+
+---
+
+## Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- Applicant tracking systems handling candidate personal data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls and retention policies.
+- **The "standalone ATS vs. HR/ERP suite module" distinction matters.** **OpenCATS**, **Nueno**, and **Niyam** are purpose-built standalone ATS tools. **Odoo Recruitment, ERPNext, Horilla, Frappe HR, and OrangeHRM** embed recruiting within larger HR/ERP systems—offering tighter integration but requiring more infrastructure to maintain.
+- **Self-hosting means you own the patching responsibility.** Verify release cadences, audit dependencies, and ensure your deployment meets your organization's security and privacy standards.
+
+---
 
 **Made for developers, recruiting teams, and organizations building transparent hiring solutions.**
-
-Let's make Applicant Tracking Systems more open, data-driven, and candidate-friendly.
