@@ -1,40 +1,63 @@
-# Awesome-Applicant-Tracking-System-ATS
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Applicant Tracking Systems ATS Banner" width="100%" />
+</p>
 
-**Top Applicant Tracking System ATS (Opensource) 🌟 Star if you like it! 🌟**
+# 🚀 Awesome Applicant Tracking System (ATS)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <strong>🌟 Top Applicant Tracking Systems (ATS), Recruitment CRMs, and Open-Source Hiring Engines 🌟</strong>
+</p>
 
-*Focused on Candidate Pipelines, Job Posting, Interview Scheduling & Recruitment CRM*
-
-**Last updated: October 2026**
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Applicant Tracking Systems (ATS)**. These tools enable recruiting teams to post jobs, parse resumes, manage candidate pipelines, schedule interviews, and collaborate on hiring decisions—from fully managed enterprise suites with AI-powered matching to self-hosted applications that give organizations complete ownership of candidate data and recruitment workflows.
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, recruitment CRM, and open hiring infrastructure—ideal for developers, recruiting agencies, and organizations seeking transparent, vendor-independent ATS solutions.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Applicant-Tracking-System-ATS?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Applicant-Tracking-System-ATS?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Applicant-Tracking-System-ATS?color=blue" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Applicant-Tracking-System-ATS" alt="GitHub issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Applicant-Tracking-System-ATS" alt="GitHub PRs" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📌 Curated Directory of SaaS Recruitment Platforms & Open-Source ATS Infrastructure
 
-The global Applicant Tracking System (ATS) market is estimated between **$2.6 billion and $3.3 billion** (projected to reach $4.8B–$8.5B by 2035 with a ~7–11% CAGR). The market exhibits a distinct **bimodal structure**: it is **concentrated and oligopolistic at the enterprise tier** where dominant HCM/suite vendors (e.g., Workday, SAP, Greenhouse) command high switching costs, while remaining **moderately-to-highly fragmented in the SMB and mid-market segment** with hundreds of specialized, niche, and emerging AI-native recruiting platforms competing for market share.
+> **A comprehensive, SEO-optimized, and continuously maintained guide to Applicant Tracking Systems (ATS), Recruitment Management Systems (RMS), Candidate Relationship Management (CRM), automated resume screeners, and self-hosted talent acquisition software.**
+
+Whether you are an enterprise HR executive seeking structured hiring pipelines, a high-growth tech startup looking for modern AI-native recruiting platforms, or an engineering team seeking self-hosted, vendor-independent, open-source ATS alternatives to Greenhouse, Lever, and Workday—this curated repository organizes tools by exact pricing, free tier limits, company valuation, and GitHub community stars.
+
+📅 **Last updated:** October 2026
 
 ---
 
-## SaaS/Hosted Platforms
+## 📑 Table of Contents
 
-| Platform | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Key Features & Best For |
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Cloud-Hosted ATS Platforms](#-saas--cloud-hosted-ats-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer & Compliance](#️-disclaimer--compliance)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global **Applicant Tracking System (ATS)** and recruiting software market is valued between **$2.6 billion and $3.3 billion**, with conservative projections forecasting expansion to **$4.8 billion – $8.5 billion by 2035** (growing at a Compound Annual Growth Rate of 7% to 11%). 
+
+The industry displays a distinct **bimodal market concentration structure**:
+- **Enterprise Tier (Concentrated & Oligopolistic):** Dominated by consolidated enterprise Human Capital Management (HCM) powerhouses and established talent acquisition suites (such as Workday, SAP SuccessFactors / SmartRecruiters, and Greenhouse) characterized by multi-year enterprise contracts, deep systems integration, and exceptionally high switching costs.
+- **Mid-Market & SMB Tier (Moderately-to-Highly Fragmented):** Consists of hundreds of specialized platforms, visual Kanban tools, and emerging AI-native recruiting startups competing aggressively across developer hiring, high-volume seasonal staffing, and regional compliance requirements.
+
+---
+
+## 🏢 SaaS & Cloud-Hosted ATS Platforms
+
+The table below lists industry-leading commercial applicant tracking systems sorted in descending order by **Company Size (Revenue / Valuation)**.
+
+| 🏢 Platform | 💰 Company Size (Revenue / Valuation) | 🏷️ Pricing (Starting Tier) | ⏳ Free Tier / Trial Limits | ✨ Key Features & Best Suited For |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Workday Recruiting](https://www.workday.com/)** | ~$10.1B Revenue / ~$50B Market Cap | ~$100–$180 PEPM (~$1,200+/employee/yr bundled in HCM, typical contracts $50,000–$100,000+/yr) | 0 days (No free tier or public trial; sales demonstration only) | Enterprise HCM integration, unified employee lifecycle, global talent compliance. Best for large enterprises already on Workday. |
 | **[SmartRecruiters](https://www.smartrecruiters.com/)** | ~$1.5B Valuation (Acquired by SAP) / ~$100M+ ARR | $14,995/year (~$1,250/month) for SmartStart/Essential plan | 0 days (No permanent free tier; live guided sales trial upon request) | Enterprise recruitment platform, marketplace of 500+ integrated tools, AI screening. Best for mid-market to enterprise companies. |
@@ -49,11 +72,11 @@ The global Applicant Tracking System (ATS) market is estimated between **$2.6 bi
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-Curated open-source applicant tracking systems, recruitment modules, and hiring pipelines sorted by GitHub community stars:
+Curated self-hosted applicant tracking systems, open HRMS recruiting modules, and AI resume screening engines sorted in descending order by **GitHub Stars**:
 
-| Repository | Stars | License | Tech Stack | Description & Highlights |
+| 📦 Repository | ⭐ Stars | 📜 License | 🛠️ Tech Stack | 📝 Description & Architectural Highlights |
 | :--- | :---: | :--- | :--- | :--- |
 | **[odoo/odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | **Odoo Recruitment Module** — Full-featured ERP recruitment suite with Kanban pipelines, drag-and-drop candidate stages, email integration, calendar interview scheduling, and instant candidate-to-employee onboarding. |
 | **[frappe/erpnext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python, JavaScript, MariaDB | **ERPNext Recruitment & HR** — Comprehensive open-source enterprise suite featuring job applicant management, staffing planning, interview evaluation records, and seamless integration with core HR operations. |
@@ -70,24 +93,48 @@ Curated open-source applicant tracking systems, recruitment modules, and hiring 
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing tabular and badge format).
-3. Include: name, link, exact pricing / limits (for SaaS), license and repository star badge (for open-source).
-4. Submit PR with a short explanation.
+Contributions are warmly encouraged! Help keep this ATS index up-to-date:
 
-Star the repo if you find it useful!
+1. 🍴 **Fork** the repository.
+2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-ats`).
+3. 📝 Add or edit entries in `README.md` following the tabular format:
+   - For **SaaS**: Provide verified company size / revenue, exact starting tier pricing, and explicit free tier / trial limits.
+   - For **Open-Source**: Include official repository link, star badge (`style=social&color=white`), license, and core tech stack.
+4. 🚀 Commit your changes (`git commit -m 'Add <Platform> to ATS list'`).
+5. 📬 Open a **Pull Request** detailing the additions or updates.
 
----
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Applicant tracking systems handling candidate personal data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls and retention policies.
-- **The "standalone ATS vs. HR/ERP suite module" distinction matters.** **OpenCATS**, **Nueno**, and **Niyam** are purpose-built standalone ATS tools. **Odoo Recruitment, ERPNext, Horilla, Frappe HR, and OrangeHRM** embed recruiting within larger HR/ERP systems—offering tighter integration but requiring more infrastructure to maintain.
-- **Self-hosting means you own the patching responsibility.** Verify release cadences, audit dependencies, and ensure your deployment meets your organization's security and privacy standards.
+⭐ Don't forget to star the repository if you found it useful!
 
 ---
 
-**Made for developers, recruiting teams, and organizations building transparent hiring solutions.**
+## 💖 Support & Sponsorship
+
+If this curated guide has saved you time, helped you select an ATS, or inspired your open-source talent acquisition workflow, please consider supporting the ongoing maintenance of this project:
+
+- 🌟 **Star this repository** on GitHub to increase visibility.
+- 🍴 **Fork and share** it with fellow recruiters, engineering hiring managers, and HR leaders.
+- ☕ **Buy me a coffee / Sponsor on GitHub:** Visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to back open-source documentation and maintenance.
+
+Thank you to all supporters, stargazers, and contributors for making open hiring infrastructure accessible to everyone! 🙌
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Applicant-Tracking-System-ATS&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Applicant-Tracking-System-ATS&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer & Compliance
+
+- This repository is a **community-curated collection** provided for educational and benchmarking purposes. Inclusion does not imply official endorsement.
+- **Privacy & Compliance (GDPR, CCPA, EEOC):** Applicant Tracking Systems store sensitive candidate PII (Personally Identifiable Information), resumes, contact details, and hiring feedback. Always ensure your deployment enforces role-based access control, data encryption in transit and at rest, retention schedules, and applicant consent protocols.
+- **Suite Module vs. Dedicated ATS:** Tools like **OpenCATS**, **Nueno**, and **Niyam** are built solely for talent pipelines. Modules within ERPs like **Odoo Recruitment** or **ERPNext** provide seamless end-to-end employee transitions but involve deploying larger enterprise suites.
+- **Self-Hosting Maintenance:** Operating self-hosted software requires active maintenance, database backups, and security patching.
+
+---
+
+<p align="center">
+  <strong>Made with ❤️ for recruiters, developers, and talent acquisition teams building open, data-driven hiring solutions.</strong>
+</p>
