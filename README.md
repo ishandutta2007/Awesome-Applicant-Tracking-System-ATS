@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Applicant-Tracking-System-ATS?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Applicant-Tracking-System-ATS?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Applicant-Tracking-System-ATS?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Applicant-Tracking-System-ATS?color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Applicant-Tracking-System-ATS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Applicant-Tracking-System-ATS" alt="GitHub issues" /></a>
@@ -74,9 +74,9 @@ The table below lists industry-leading commercial applicant tracking systems sor
 
 ## 💻 Open-Source GitHub Projects
 
-Curated self-hosted applicant tracking systems, open HRMS recruiting modules, and AI resume screening engines sorted in descending order by **GitHub Stars**:
+Curated self-hosted applicant tracking systems, open HRMS recruiting modules, and AI resume screening engines sorted in descending order by **GitHub_Stars**:
 
-| 📦 Repository | ⭐ Stars | 📜 License | 🛠️ Tech Stack | 📝 Description & Architectural Highlights |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License | 🛠️ Tech Stack | 📝 Description & Architectural Highlights |
 | :--- | :---: | :--- | :--- | :--- |
 | **[odoo/odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | **Odoo Recruitment Module** — Full-featured ERP recruitment suite with Kanban pipelines, drag-and-drop candidate stages, email integration, calendar interview scheduling, and instant candidate-to-employee onboarding. |
 | **[frappe/erpnext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python, JavaScript, MariaDB | **ERPNext Recruitment & HR** — Comprehensive open-source enterprise suite featuring job applicant management, staffing planning, interview evaluation records, and seamless integration with core HR operations. |
@@ -101,7 +101,7 @@ Contributions are warmly encouraged! Help keep this ATS index up-to-date:
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-ats`).
 3. 📝 Add or edit entries in `README.md` following the tabular format:
    - For **SaaS**: Provide verified company size / revenue, exact starting tier pricing, and explicit free tier / trial limits.
-   - For **Open-Source**: Include official repository link, star badge (`style=social&color=white`), license, and core tech stack.
+   - For **Open-Source**: Include official repository link, Stars_Badge (`style=social&color=white`), license, and core tech stack.
 4. 🚀 Commit your changes (`git commit -m 'Add <Platform> to ATS list'`).
 5. 📬 Open a **Pull Request** detailing the additions or updates.
 
